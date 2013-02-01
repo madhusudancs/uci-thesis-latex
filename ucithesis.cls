@@ -58,7 +58,7 @@
 		\vspace{0.4in}
 		\Thesistitle \\
 		\vspace{0.15in}
-		DISSERTATION \\
+		THESIS \\
 		\vspace{0.4in}
 		submitted in partial satisfaction of the requirements \\
 		for the degree of \\
@@ -235,7 +235,6 @@
 	\clearpage
 	\phantomsection
 	\addcontentsline{toc}{chapter}{CURRICULUM VITAE}
-	\curriculumvitaepage
 	\clearpage
 	\phantomsection
 	\addcontentsline{toc}{chapter}{ABSTRACT OF THE DISSERTATION}
